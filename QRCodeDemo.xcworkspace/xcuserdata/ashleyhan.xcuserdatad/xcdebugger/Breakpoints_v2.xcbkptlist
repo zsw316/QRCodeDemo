@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QRCodeDemo/GenerateQRCodeViewController.swift"
+            timestampString = "527231074.460578"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "didTapSaveButton(button:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRCodeDemo.GenerateQRCodeViewController.didTapSaveButton (button : __ObjC.UIButton) -&gt; ()"
+                  moduleName = "QRCodeDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ashleyhan/iOS-Sample-Projects/QRCodeDemo/QRCodeDemo/GenerateQRCodeViewController.swift"
+                  timestampString = "527231305.614441"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "295">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRCodeDemo.GenerateQRCodeViewController.(didTapSaveButton (button : __ObjC.UIButton) -&gt; ()).(closure #1)"
+                  moduleName = "QRCodeDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ashleyhan/iOS-Sample-Projects/QRCodeDemo/QRCodeDemo/GenerateQRCodeViewController.swift"
+                  timestampString = "527231305.623454"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
